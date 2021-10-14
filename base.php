@@ -5,4 +5,7 @@ class base
     {
         return true;
     }
+    function test(){
+        echo "test";
+    }
 }
